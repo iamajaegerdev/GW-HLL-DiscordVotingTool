@@ -1,0 +1,1092 @@
+{
+  "Maps": [
+    {
+      "MapName": "Carentan Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "meta",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Carentan German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Carentan United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Carentan Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "enabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Driel Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Allies",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Driel German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Allies (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Driel British Allies Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Allies (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Driel Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Allies",
+        "Axis": "Germany",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "El-Alamein Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army",
+        "Axis": "German Africa Corps",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "El-Alamein German Africa Corps Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army (Defending)",
+        "Axis": "German Africa Corps (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "El-Alamein British Eighth Army Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army (Attacking)",
+        "Axis": "German Africa Corps (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "El-Alamein Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army",
+        "Axis": "German Africa Corps",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Elsenborn Ridge Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Elsenborn Ridge German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Elsenborn Ridge United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Elsenborn Ridge Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Foy Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Foy German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Foy United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hill 400 Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hill 400 German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hill 400 United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hill 400 Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hurtgen Forest Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hurtgen Forest German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Hurtgen Forest United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Kharkov Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Kharkov German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Kharkov Soviet Union Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Kursk Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Kursk German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Kursk Soviet Union Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Mortaine Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "enabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Mortaine German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "enabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Mortaine United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "enabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Mortaine Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "enabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Omaha Beach Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "meta",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Omaha Beach German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Omaha Beach United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Purple Heart Lane Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "disabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "enabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Purple Heart Lane German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Purple Heart Lane United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Purple Heart Lane Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "enabled",
+        "Day": "disabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "enabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Remagen Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Remagen German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Remagen United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Marie-du-Mont Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "meta",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Marie-du-Mont German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Marie-du-Mont United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Marie-du-Mont Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "enabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Mère-Église Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "meta",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Mère-Église German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Mère-Église United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Sainte-Mère-Église Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Stalingrad Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Stalingrad German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Stalingrad Soviet Union Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "Soviet Union (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Tobruk Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army",
+        "Axis": "German Africa Corps",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Tobruk German Africa Corps Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army (Defending)",
+        "Axis": "German Africa Corps (Attacking)",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Tobruk British Eighth Army Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army (Attacking)",
+        "Axis": "German Africa Corps (Defending)",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Tobruk Skirmish",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "British Eighth Army",
+        "Axis": "German Africa Corps",
+        "Dawn": "enabled",
+        "Day": "enabled",
+        "Dusk": "enabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Utah Beach Warfare",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States",
+        "Axis": "Germany",
+        "Dawn": "disabled",
+        "Day": "meta",
+        "Dusk": "disabled",
+        "Night": "enabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Utah Beach German Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Defending)",
+        "Axis": "Germany (Attacking)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    },
+    {
+      "MapName": "Utah Beach United States Offensive",
+      "MapDetails": {
+        "Enabled": "enabled",
+        "Allies": "United States (Attacking)",
+        "Axis": "Germany (Defending)",
+        "Dawn": "disabled",
+        "Day": "enabled",
+        "Dusk": "disabled",
+        "Night": "disabled",
+        "Fog": "disabled",
+        "Overcast": "disabled",
+        "Rain": "disabled",
+        "Sandstorm": "disabled",
+        "Snowstorm": "disabled"
+      }
+    }
+  ]
+} 

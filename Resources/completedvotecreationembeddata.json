@@ -1,0 +1,41 @@
+{
+  "topBookend": {
+    "title": "Garrisons & Whiskey Map Rotation Vote",
+    "description": "A *bi-weekly* or *twice-monthly* first-past-the-post community vote to find {maxVotesPerVoter} maps that will add variety to G&W's map rotation. A Map Rotation Guide can be found in the discussion thread at the bottom.",
+    "fieldRulesTitle": "Rules",
+    "fieldRulesText": "Voters are limited to {maxVotesPerVoter} votes.\nVotes over the limit will be randomly discarded.",
+    "fieldHowToTitle": "How to Vote",
+    "fieldHowToText": "Use the Emoji Reaction(s) under each option corresponding to your choice of time or weather variant.",
+    "fieldEmojiKeyTitle": "Emoji Reaction Key",
+    "fieldEmojiKeyText": "",
+    "fieldCurrentMetaMapsTitle": "Current Meta Maps:",
+    "fieldCurrentMetaMapsText": "",
+    "fieldWarningTitle": "{alertEmoji} __Warning__ {alertEmoji}",
+    "fieldWarningText": "- Do not send messages in the main channel!\n- The vote tally requires a specific environment.\n*- Please use the discussion thread.*",
+    "fieldJumpTitle": "You have reached the top.",
+    "imageUrl": "https://i.imgur.com/y3nldGW.png",
+    "thumbnailUrl": "https://i.imgur.com/JjWQkNH.png",
+    "color": "Red"
+  },
+  "bottomBookend": {
+    "title": "Garrisons & Whiskey Map Rotation Vote",
+    "description": "Rules, \"How to Vote\", and Emoji Reaction Key can be found at the top. The Map Rotation Guide can be found in the discussion thread below.",
+    "fieldJumpTitle": "You have reached the bottom.",
+    "fieldJumpValue": "",
+    "fieldWarningTitle": "{alertEmoji} __Warning__ {alertEmoji}",
+    "fieldWarningText": "- Do not send messages in the main channel!\n- The vote tally requires a specific environment.\n*- Please use the discussion thread.*",
+    "imageUrl": "https://i.imgur.com/y3nldGW.png",
+    "thumbnailUrl": "https://i.imgur.com/JjWQkNH.png",
+    "color": "Red"
+  },
+  "threadHeader": {
+    "title": "Welcome to the Discussion Thread!",
+    "description": "Rules, \"How to Vote\", and Emoji Reaction Key can be found at the top of the main channel.",
+    "fieldMapRotationGuideTitle": "Map Rotation Guide",
+    "fieldMapRotationGuideText": "- Five meta maps will be in the rotation twice.\n- Three non-meta will be voted on to be included for a total of thirteen (13) maps.\n- Offensive map versions will be capped at one. (*Note: This currently requires manual checks.*)\n- In the situation we have a competitive match on the weekend with a non-meta map, the second and third place maps will be replaced with that non-meta map until after that match has begun.\n- Votes for the non-meta maps will be every two weeks. (1st and 15th of the month)\n- From 9:00PM to 10:00AM Eastern the auto-script meta-map-only rotation will be in effect.",
+    "fieldCurrentMetaMapsTitle": "Current Meta Maps:",
+    "fieldCurrentMetaMapsText": "",
+    "fieldMetaMapsExplainedTitle": "Meta Maps Explained",
+    "fieldMetaMapsExplainedText": "A meta map is a map that is consistently voted into the rotation by members."
+  }
+} 

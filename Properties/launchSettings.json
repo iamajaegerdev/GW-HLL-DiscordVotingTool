@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DiscordVotingTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-dev",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

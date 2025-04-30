@@ -1,0 +1,11 @@
+{
+  "InitialEmbedTitle": "Loading . . .",
+  "InitialEmbedDescription": "Due to Discord API rate limits this will take a few minutes.",
+  "InitialEmbedWarningFieldTitle": "⚠️ Warning ⚠️",
+  "InitialEmbedWarningFieldValue": "Do not send messages while channel is loading!",
+  "InitialEmbedImageUrl": "https://media.tenor.com/I6kN-6X7nhAAAAAi/loading-buffering.gif",
+  "InitialEmbedThumbnailUrl": "https://i.imgur.com/Z0kUUzd.png",
+  "InitialEmbedFooterText": "Please stand by . . .",
+  "InitialEmbedFooterIconUrl": "https://i.imgur.com/C9gdjBG.png",
+  "InitialEmbedColor": "Blue"
+} 
